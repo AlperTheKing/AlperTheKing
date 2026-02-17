@@ -47,8 +47,8 @@ My goal is to build systems that are not just accurate, but also reproducible, e
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlperTheKing&show_icons=true&hide_border=true&title_color=22c55e&icon_color=0ea5e9&text_color=e5e7eb&bg_color=0f172a" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AlperTheKing&hide_border=true&background=0F172A&ring=22C55E&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=93C5FD" alt="streak" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlperTheKing&show_icons=true&hide_border=true&title_color=22c55e&icon_color=0ea5e9&text_color=e5e7eb&bg_color=0f172a&cache_seconds=7200" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=AlperTheKing&hide_border=true&background=0F172A&ring=22C55E&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=93C5FD" alt="streak" />
 </p>
 
 ## Outside Work
